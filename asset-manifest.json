@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Origin-Fit/static/css/main.20acbc28.css",
+    "main.js": "/Origin-Fit/static/js/main.b1cb32c5.js",
+    "static/media/banner.png": "/Origin-Fit/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/Origin-Fit/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/Origin-Fit/index.html",
+    "main.20acbc28.css.map": "/Origin-Fit/static/css/main.20acbc28.css.map",
+    "main.b1cb32c5.js.map": "/Origin-Fit/static/js/main.b1cb32c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.b1cb32c5.js"
+  ]
+}
